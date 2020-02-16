@@ -1,6 +1,8 @@
 host: stash.appscode.dev
 
 paths:
+  /apimachinery:
+    repo: https://github.com/stashed/apimachinery
   /catalog:
     repo: https://github.com/stashed/catalog
   /cli:
