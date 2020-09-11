@@ -25,5 +25,7 @@ paths:
     repo: https://github.com/stashed/percona-xtradb
   /postgres:
     repo: https://github.com/stashed/postgres
+  /redis:
+    repo: https://github.com/stashed/redis
   /stash:
     repo: https://github.com/stashed/stash
